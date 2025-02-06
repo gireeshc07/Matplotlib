@@ -1,3 +1,5 @@
+<img src="matplotlib_logo.svg" alt="NumPy Logo" style="width:250px; height:100px;">
+
 # 📈 Matplotlib Python Library 📈
 
 ## 📚 Topics Covered:
